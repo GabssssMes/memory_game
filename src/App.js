@@ -52,6 +52,7 @@ const App = () => {
               src={card.src}
               name={card.name}
               change={changeCard(card.key)}
+              key={card.key}
             ></Card>
           );
         })}
