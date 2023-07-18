@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/memory_game/static/css/main.944a66af.css",
+    "main.js": "/memory_game/static/js/main.11d86632.js",
+    "static/media/Shenlong.png": "/memory_game/static/media/Shenlong.d64a951a1f544a4062f8.png",
+    "static/media/Freezer.png": "/memory_game/static/media/Freezer.6b35f145b16edb2ac284.png",
+    "static/media/Piccolo.png": "/memory_game/static/media/Piccolo.dc4141ee8dbeae548df3.png",
+    "static/media/Cell.png": "/memory_game/static/media/Cell.a1fe385de7b0f6a6ebb1.png",
+    "static/media/God.png": "/memory_game/static/media/God.52f2bc95d9c8535def5f.png",
+    "static/media/OOlong.png": "/memory_game/static/media/OOlong.a0b8c7b09b1332de5232.png",
+    "static/media/songoku.png": "/memory_game/static/media/songoku.e9d80ecd21f6cda8abff.png",
+    "static/media/songohan.png": "/memory_game/static/media/songohan.97330c0e1c023b51ff5c.png",
+    "static/media/Nappa.png": "/memory_game/static/media/Nappa.80d0b591c75965c98e40.png",
+    "static/media/Mr_popo.png": "/memory_game/static/media/Mr_popo.b27f0701951c35585d36.png",
+    "static/media/Mister_satan.png": "/memory_game/static/media/Mister_satan.f610a4a52983989469b9.png",
+    "static/media/Vegeta.png": "/memory_game/static/media/Vegeta.dff487446a0d2b28aab1.png",
+    "static/media/Pool.png": "/memory_game/static/media/Pool.b9477d17f96e4f4f8966.png",
+    "static/media/Yamchu.png": "/memory_game/static/media/Yamchu.67cea426cd10a6958f1f.png",
+    "static/media/MutenRoshi.png": "/memory_game/static/media/MutenRoshi.3fb5bb91e32b69fa702a.png",
+    "static/media/Krillin.png": "/memory_game/static/media/Krillin.1e5f4af0a843f240c010.png",
+    "static/media/Raditz.png": "/memory_game/static/media/Raditz.1a25fa35c71a13c7b061.png",
+    "static/media/Chaozu.png": "/memory_game/static/media/Chaozu.b54fada069329646fcba.png",
+    "static/media/Meister_Kaio.png": "/memory_game/static/media/Meister_Kaio.6060b088fc0119219ea7.png",
+    "static/media/Boo.png": "/memory_game/static/media/Boo.03f6efeb9a92e0b413c3.png",
+    "index.html": "/memory_game/index.html",
+    "main.944a66af.css.map": "/memory_game/static/css/main.944a66af.css.map",
+    "main.11d86632.js.map": "/memory_game/static/js/main.11d86632.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.944a66af.css",
+    "static/js/main.11d86632.js"
+  ]
+}
